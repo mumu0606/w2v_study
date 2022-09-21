@@ -1,0 +1,7 @@
+mecab-python3
+numpy
+unidic
+unidic-lite
+gensim
+uvicorn
+fastapi
